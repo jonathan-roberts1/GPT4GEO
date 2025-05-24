@@ -2,6 +2,8 @@
 
 [**GPT4GEO: How a Language Model Sees the World's Geography**](https://arxiv.org/abs/2306.00020)
 
+**NeurIPS 2023 Foundation Models for Decision Making Workshop**
+
 Jonathan Roberts, Timo Lüddecke, Sowmen Das, Kai Han, Samuel Albanie
 
 GPT4GEO provides a broad categorisation of the geographic capabilities of GPT-4 and what it knows about the world *without access to the Internet*. This repo is structured as follows, including the prompts for the GPT4GEO project experiments:
